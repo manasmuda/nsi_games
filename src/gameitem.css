@@ -1,0 +1,12 @@
+#gameitemroot{
+    flex: 1;
+}
+
+#gameitemimage{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+

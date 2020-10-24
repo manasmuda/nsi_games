@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbf3ceac.chunk.css",
+    "main.js": "/static/js/main.812d39c3.chunk.js",
+    "main.js.map": "/static/js/main.812d39c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1f2e438.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1f2e438.js.map",
+    "static/css/2.fad0a8c6.chunk.css": "/static/css/2.fad0a8c6.chunk.css",
+    "static/js/2.4ade4e9d.chunk.js": "/static/js/2.4ade4e9d.chunk.js",
+    "static/js/2.4ade4e9d.chunk.js.map": "/static/js/2.4ade4e9d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fa7915cd009d43becac0806cf8dc083c.js": "/precache-manifest.fa7915cd009d43becac0806cf8dc083c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fad0a8c6.chunk.css.map": "/static/css/2.fad0a8c6.chunk.css.map",
+    "static/css/main.bbf3ceac.chunk.css.map": "/static/css/main.bbf3ceac.chunk.css.map",
+    "static/js/2.4ade4e9d.chunk.js.LICENSE.txt": "/static/js/2.4ade4e9d.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/static/media/Sansation_Light.99f7456d.ttf",
+    "static/media/games_mock.png": "/static/media/games_mock.2f4dbbdb.png",
+    "static/media/mw_logo_1.png": "/static/media/mw_logo_1.cde2613f.png",
+    "static/media/play_store_logo.png": "/static/media/play_store_logo.bff481a7.png",
+    "static/media/potrait_logo.png": "/static/media/potrait_logo.8af6e8fb.png",
+    "static/media/tactical_combat_icon.png": "/static/media/tactical_combat_icon.e08894c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1f2e438.js",
+    "static/css/2.fad0a8c6.chunk.css",
+    "static/js/2.4ade4e9d.chunk.js",
+    "static/css/main.bbf3ceac.chunk.css",
+    "static/js/main.812d39c3.chunk.js"
+  ]
+}

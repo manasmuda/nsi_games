@@ -1,0 +1,6 @@
+#menu{
+    right: 20px;
+    position: absolute;
+    height: 100%;
+    display: flex;
+}

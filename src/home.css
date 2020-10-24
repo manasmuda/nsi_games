@@ -1,0 +1,90 @@
+#homeintro{
+    display: flex;
+}
+
+#homeroot{
+    height: all;
+}
+
+#homelogodiv{
+    flex: 5;
+    height: fit-content;
+    background-color: black;
+}
+
+#logoimg{
+    width: 100%;
+}
+
+#gamemockimg{
+    position: relative;
+    left:  180px;
+    bottom: 0px;
+    height: 380px;
+    width: 420px;
+    z-index: 0;
+}
+
+#gamemockimg:hover{
+    z-index: 1;
+    height: 420px;
+    width: 450px;
+}
+
+#welcomediv{
+    position: relative;
+    flex: 7;
+}
+
+#welcometitle{
+    margin-top: 30px;
+    font-family: 'newfontbolditalic';
+    text-align: center;
+    z-index: 1;
+}
+
+
+
+#welcomedesc{
+    font-family: 'newfont';
+    padding: 20px;
+    text-indent: 20%;
+    font-size: 22px;
+    z-index: 1;
+}
+
+#ourgamesdiv{
+    position:absolute;
+    width: 100%;
+    background-color: black;
+    height: 100px;
+}
+
+#ourgamestitleanim{
+    
+}
+
+#ourgamestitle{
+    margin-bottom: 10px;
+    font-family: 'newfontbolditalic';
+    text-align: center;
+    font-size: 42px;
+    color: #14a4e9;
+}
+
+#gamesdiv{
+    display: flex;
+    padding: 20px;
+}
+
+@font-face{
+    font-family: 'newfontbolditalic';
+    src: url(Sansation_Bold_Italic.ttf);
+    font-weight: bold;
+}
+
+@font-face{
+    font-family: 'newfont';
+    src:  url(Sansation_Light.ttf);
+    
+}
